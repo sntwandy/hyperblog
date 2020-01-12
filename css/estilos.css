@@ -61,3 +61,10 @@ body
     text-align: center;
     padding: 0.5em;
 }
+
+#imagen p
+{
+    text-align: center;
+    font-weight: bold;
+    color: #33A;
+}
