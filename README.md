@@ -10,5 +10,6 @@ Un blog increible para el curso de Git y Github de Platzi.
 - Los trucos muy locos del profesor xd.
 - Creado por el increible Cube Team.
 - Incluye ejemplos en Windows, Linux y MacOS.
+- Disponible para todas las edades.
 
 Y como un amable recordatorio este **README.md** es todo un chiste. Solo esta hecho para ejemplo del curso, si llegas aca no te lo tomes en serio, mejor toma el [**Curso Profesional de Git y GitHub**](http://platzi.com/cursos/git-github "**curso profesional de Git y GitHub**").
